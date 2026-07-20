@@ -70,7 +70,7 @@ I'm a **Computer Engineering student** with a strong passion for designing intel
 
 ## 🎯 Career Goals
 
-My goal is to become an **Embedded Systems Engineer**, building intelligent and reliable systems that bridge hardware and software. I am particularly interested in developing solutions in:
+My goal is to become an **Embedded/Prompt Engineer**, building intelligent and reliable systems that bridge hardware and software. I am particularly interested in developing solutions in:
 
 * Embedded Systems
 * Artificial Intelligence
